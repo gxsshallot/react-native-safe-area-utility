@@ -1,6 +1,6 @@
 {
   "name": "react-native-safe-area-insets",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "description": "A tool for getting insets of Safe Area in React Native view.",
   "main": "index.js",
