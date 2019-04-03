@@ -1,0 +1,30 @@
+{
+  "name": "react-native-safe-area-insets",
+  "version": "0.0.1",
+  "private": false,
+  "description": "A tool for getting insets of Safe Area in React Native view.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaoxiaosong/react-native-safe-area-insets.git"
+  },
+  "keywords": [
+    "React-Native",
+    "SafeArea",
+    "Insets"
+  ],
+  "author": "Xiaosong Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaoxiaosong/react-native-safe-area-insets/issues",
+    "email": "gaoxiaosong06@gmail.com"
+  },
+  "homepage": "https://github.com/gaoxiaosong/react-native-safe-area-insets#readme",
+  "devDependencies": {
+    "eslint-plugin-automatic": "latest"
+  }
+}
